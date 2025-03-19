@@ -1,0 +1,24 @@
+.rulewrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.ruleitem {
+    display: flex;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.ruleitem .ant-select {
+    width: 250px;
+    margin: 0 10px;
+}
+
+.range_input {
+    display: flex;
+    margin: 0 10px
+}
+
+.range_input > input {
+    margin: 0 10px
+}
